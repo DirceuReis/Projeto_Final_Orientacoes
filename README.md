@@ -56,13 +56,11 @@ Para facilitar o entendimento de como isso pode ser feito, eu coloco abaixo dois
 
 
 <figure>
-    <img src="fluxograma_Renato_Amorim.png" width="600" height="400"
+    <img src="fluxograma_Renato_Amorim.png" width="600" height="500"
          alt="fluxograma">
     <figcaption>Fonte: Amorim (2018). DETECÇÃO DE TENDÊNCIAS EM SÉRIES DE EXTREMOS HIDROLÓGICOS CONSIDERANDO EFEITOS DE AUTOCORRELAÇÃO TEMPORAL E MULTIPLICIDADE DE TESTES. Dissertação de Mestrado, PTARH/UnB.</figcaption>
 </figure>
 
-
-![Fonte: Amorim (2018). DETECÇÃO DE TENDÊNCIAS EM SÉRIES DE EXTREMOS HIDROLÓGICOS CONSIDERANDO EFEITOS DE AUTOCORRELAÇÃO TEMPORAL E MULTIPLICIDADE DE TESTES. Dissertação de Mestrado, PTARH/UnB.](fluxograma_Renato_Amorim.png)
 
 Essa primeira seção da Metodologia tem o objetivo de dar ao leitor uma ideia geral de como os métodos descritos na sequência se relacionam entre si, ou como cada etapa necessária para atingir os objetivos estão interigadas. 
 

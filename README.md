@@ -28,9 +28,23 @@ Finalizo dizendo que a Introdução precisa estar muito bem casada com os Objeti
 
 ### Objetivos geral e específicos
 
+Eu inicio esta seção da mesma forma que finalizei a seção anterior, ou seja, enfatizando a necessidade de que a seção de Introdução deve estar intimamente relacioanada com a seção de Objetivos do trabalho. Ao iniciar a leitura dos Objetivos, o leitor não deve sentir nem uma gota de surpresa, muito pelo cntrário, ele deve ler os objetivos como se os mesmos já estivessem em sua cabeça. Qualquer sinal de surpresa é um indício de que a Introdução pode e deve ser refinada.
+
+Na UnB, mais especificamente no Departamento de Engenharia Cicil e Ambiental, é comum apresentar os objetivos em duas partes, um com o chamado Objetivo geral, e uma segunda parte com uma iteização de Objetivos Específicos. Essa maneira de paresentar, embora não seja obrigatório, é bastante comum.
+
+O Objetivo geral é geralmente descrito em apenas um parágrafo.Ele dá uma ideia geral do que se pretende alcançar com o Projeto Final. 
+
+Os Objetivos Específicos são normalmente apresentados em forma de itens. Não existe uma maneira única de pensar sobre como apresentar os Objetivos Específicos. Eu gosto de pensar nos Objetivos Específicos como subprodutos do Projeto Final, entidades palpáveis, que tenham vida própria, ou em outras palavras, que possam ser vistos como uma unidade com início, meio e fim. 
+
+Seguem alguns exemplos:
+
+
+
 ### Revisão bibliográfica e ou referencial teórico
 
 ### Metodologia
+
+Da mesma forma que a Introdução precisa estar muito bem casada com os objetivos do trabalho, é muito importante que a Metodologia converse, de maneira explícita, com os objetivos específicos. Para que isso aconteça, eu sugiro sempre criar um item inicial  na seção de Metodologia chamado **Estratégia de Ação**, ou algo similar, em que você irá descrever de uma forma geral como os métodos a serem apresentados se relacionam com os objetivos específicos do trabalho, utilizando, de preferência, algum tipo de diagrama ou fluxograma. Essa primeira seção da Metodologia tem o objetivo de dar ao leitor uma ideia geral de como os métodos descritos na sequência se relacionam entre si, ou como cada etapa necessária para atingir os objetivos estão interigadas.  
 
 ### Resultados perliminares (se houver)
 

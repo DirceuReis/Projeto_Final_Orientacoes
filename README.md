@@ -81,7 +81,15 @@ Eu sugiro que o primiero item da Metodologia, depois do item **Estratégia de A�
 
 ### Resultados perliminares (se houver)
 
+Alguns alunos conseguem obter alguns resultados preliminares antes da defesa do Projeto Final 1. Se for o caso, esses resultados devem ser incorporados no documento do Projeto Final 1. Sempre que possível, os resultados devem ser apresentados fazendo uma ligação com os objetivos específicos. 
+
+Independete do quão preliminares os resultados são, eles devem ser analisados de forma coerente e aprsentados em forma de tabelas, gráficos ou mapas, dependendodo tipo de resultado que tenha sido alcançado. É comum os alunos voltarem a falar dos métodos emregados quando aprsentam os resutados obtidos. Isso deve ser evitado. O objetivo nesta seção do Projeto Final é apresentar os resultados e discutí-los da forma mais clara possível. 
+
 ### Cronograma de execução
+
+O cronograma de execução apresentado no documento do Projeto Final 1 é um item muito importante que pode ajudar a banca a atender se o seu projeto é de fato viável de ser executado durante o Projeto Final 2. Além diso, um cronograma bem feito, baseado em reflexões concretas, pode ajudar você a organzar bem o seu tempo ao longo do semestre de forma a evitar correrias e estresse na semanas finais.
+
+O cronograma deve conter todas as atividades apresentadas no item **Estratégia de Ação**. Para cada atividade, deve-se alocar um dada quantidade de tempo para sua execução. A discretização temporal deve ser uma ou duas semanas. Intervalos mensais devem ser evitados, pois não dão o detalhamento necessário para um projeto que deve ser concluído em 4 meses. 
 
 ### Referências
 

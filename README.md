@@ -1,3 +1,8 @@
+---
+output:
+  html_document: default
+  pdf_document: default
+---
 # Orientações para realização de Projeto Final
 
 Este documento apresenta e discute diversos elementos que fazem parte dos documentos de Projeto Final 1 e Projeto Final 2 de alunos da Univesidade de Brasília sob orientação do Professor Dirceu Silveira Reis Junior.
@@ -44,7 +49,7 @@ Seguem alguns exemplos:
 
 ### Metodologia
 
-#### Estratégia de ação
+##### Estratégia de ação
 
 Da mesma forma que a Introdução precisa estar muito bem casada com os objetivos do trabalho, é muito importante que a Metodologia converse com os objetivos específicos da maneira mais clara possível. Para que isso aconteça, eu sugiro criar um item inicial na seção de Metodologia chamado **Estratégia de Ação**, ou algo similar, em que você irá descrever de uma forma geral como os métodos a serem apresentados se relacionam com os objetivos específicos do trabalho, utilizando, de preferência, algum tipo de diagrama ou fluxograma.
 
@@ -68,13 +73,13 @@ O uso de um fluxograma como esses dois acima apresentados em conjunto com um tex
 
 Os itens seguintes da Metodologia devem discutir cada uma das etapas apreentadas no fluxograma. Aí sim é o momento de detalhar os métodos empregados. Nesta etapa, é preciso ter em mente que a seção de Metodologia tem o objetivo de mostrar como você executou o seu estudo. O nível de detalhamento a ser dado aqui deve ser aquele que permitirá, a quem quer que seja, reproduzir os seus resultados. 
 
-#### Detalhamneto metodológico
+##### Detalhamneto metodológico
 
 É preciso pensar nisso quando for descrever os métodos empregados. Métodos antigos, às vezes já consagrados e utilizados por outros, já possuem publicações anteriores, que devem ser citadas aqui. Nesses casos, costuma-se descrever o métdo de uma forma mais geral sem dar os detalhes, que odem sempre ser obtidos em outras fontes. ENtretanto, vale dizer que o nível de detalhamento adequado é sempre um pouco subjetivo, de forma que existe a possiblidade que alguém da banca de avaliação de seu trabalho venha a discordar de sua opinião sobre o que é adequado de entrar no trabalho. Se o método empregado foi desenvolvido por você, o mesmo deve ser detalhado o suficiente para sua correta reprodução por terceiros.
 
 É comum haver dúvidas de como escrever a Metodologia quando um método empregado já tenha sido discutido no **Referencial Teórico** ou na **Revisão Bibliográfica**. Nesse caso, eu sugiro apenas citar, pro exemplo, que a etapa A do trabalho empregou o método C, que já foi apresentado anteriormente. Seria um desperdício reescrever o método no memso documento. Entretanto, creio não existir consenso nesses casos.Se esse for o seu caso, sugiro conversar com o seu orientador a respeito para acharem uma solução conveniente. 
 
-#### Dados empregados
+##### Dados empregados
 
 Eu sugiro que o primiero item da Metodologia, depois do item **Estratégia de Ação**, seja reservado para tratar dos dados utilizados no estudo e dos possíveis tratamento dado aos mesmos. Digamos, por exemplo, que você tenha utilizado dados diários de vazão em várias estações fluviométrica localizados numa dada bacia hidrográfica. Nesse caso, é preciso explicar como e ond esses dados foram obtidos, listar os critérios adotados no processo de seleção dessas estações, mostrar a localização das mesmas num mapa, apresentar o período de dados usados, bem como discutir qalquer tipo de transformação que tenha sido empregada nos mesmos. 
 

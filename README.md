@@ -46,6 +46,10 @@ Seguem alguns exemplos:
 
 Da mesma forma que a Introdução precisa estar muito bem casada com os objetivos do trabalho, é muito importante que a Metodologia converse, de maneira explícita, com os objetivos específicos. Para que isso aconteça, eu sugiro sempre criar um item inicial  na seção de Metodologia chamado **Estratégia de Ação**, ou algo similar, em que você irá descrever de uma forma geral como os métodos a serem apresentados se relacionam com os objetivos específicos do trabalho, utilizando, de preferência, algum tipo de diagrama ou fluxograma. 
 
+![Fonte: Osório (2017). MODELO BAYESIANO COMPLETO PARA ANÁLISE DE FREQUÊNCIA DE CHEIAS COM INCORPORAÇÃO DO CONHECIMENTO HIDRÁULICO NA MODELAGEM DAS INCERTEZAS NA CURVA-CHAVE. Dissertação de Mestrado, PTARH/UnB.](fluxograma_ana_luisa.png)
+
+![Fonte: Amorim (2018). DETECÇÃO DE TENDÊNCIAS EM SÉRIES DE EXTREMOS HIDROLÓGICOS CONSIDERANDO EFEITOS DE AUTOCORRELAÇÃO TEMPORAL E MULTIPLICIDADE DE TESTES. Dissertação de Mestrado, PTARH/UnB.](fluxograma_Renato_Amorim.png)
+
 Essa primeira seção da Metodologia tem o objetivo de dar ao leitor uma ideia geral de como os métodos descritos na sequência se relacionam entre si, ou como cada etapa necessária para atingir os objetivos estão interigadas. 
 
 Na sequência, você deverá apresentar todos os métodos empregados no trabalho. É preciso ter em mente que a seção de Metodologia tem o objetivo de mostrar como você executou o seu estudo. O nível de detalhamento a ser dado aqui deve ser aquele que permitirá a quem quer que seja rproduzir os seus resultados. É preciso pensar nisso quando for descrever os métodos mepregados, sejam eles métodos antigos, já utilizados por outros, sejam eles métodos novos desenvolvidos por você mesmo. Quando se tratar de métodos mais antigos, que já tenham sido publicados em utro local, pode-se descrever de uma maneira mais geral e deixar os detalhes para serem encontrados nessas publicações. O nível de detalhamento adequado é sempre um pouco subjetivo, de forma que existe a possiblidade que alguém da banca de avaliação de seu trabalho não concorde com sua opinião do que é ou não é adequado.

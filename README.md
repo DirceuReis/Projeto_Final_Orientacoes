@@ -44,9 +44,23 @@ Seguem alguns exemplos:
 
 ### Metodologia
 
-Da mesma forma que a Introdução precisa estar muito bem casada com os objetivos do trabalho, é muito importante que a Metodologia converse, de maneira explícita, com os objetivos específicos. Para que isso aconteça, eu sugiro sempre criar um item inicial  na seção de Metodologia chamado **Estratégia de Ação**, ou algo similar, em que você irá descrever de uma forma geral como os métodos a serem apresentados se relacionam com os objetivos específicos do trabalho, utilizando, de preferência, algum tipo de diagrama ou fluxograma. 
+Da mesma forma que a Introdução precisa estar muito bem casada com os objetivos do trabalho, é muito importante que a Metodologia converse com os objetivos específicos da maneira mais clara possível. Para que isso aconteça, eu sugiro criar um item inicial na seção de Metodologia chamado **Estratégia de Ação**, ou algo similar, em que você irá descrever de uma forma geral como os métodos a serem apresentados se relacionam com os objetivos específicos do trabalho, utilizando, de preferência, algum tipo de diagrama ou fluxograma.
 
-![Fonte: Osório (2017). MODELO BAYESIANO COMPLETO PARA ANÁLISE DE FREQUÊNCIA DE CHEIAS COM INCORPORAÇÃO DO CONHECIMENTO HIDRÁULICO NA MODELAGEM DAS INCERTEZAS NA CURVA-CHAVE. Dissertação de Mestrado, PTARH/UnB.](fluxograma_ana_luisa.png)
+Para facilitar o entendimento de como isso pode ser feito, eu coloco abaixo dois exemplos de diagramas. O primeiro foi retirado de uma dissertação de mestrado onde isso é feito. Eu retirei estes exemplos 
+
+<figure>
+    <img src="fluxograma_ana_luisa.png"
+         alt="fluxograma">
+    <figcaption>Fonte: Osório (2017). MODELO BAYESIANO COMPLETO PARA ANÁLISE DE FREQUÊNCIA DE CHEIAS COM INCORPORAÇÃO DO CONHECIMENTO HIDRÁULICO NA MODELAGEM DAS INCERTEZAS NA CURVA-CHAVE. Dissertação de Mestrado, PTARH/UnB.</figcaption>
+</figure>
+
+
+<figure>
+    <img src="fluxograma_Renato_Amorim.png" width="600" height="400"
+         alt="fluxograma">
+    <figcaption>Fonte: Amorim (2018). DETECÇÃO DE TENDÊNCIAS EM SÉRIES DE EXTREMOS HIDROLÓGICOS CONSIDERANDO EFEITOS DE AUTOCORRELAÇÃO TEMPORAL E MULTIPLICIDADE DE TESTES. Dissertação de Mestrado, PTARH/UnB.</figcaption>
+</figure>
+
 
 ![Fonte: Amorim (2018). DETECÇÃO DE TENDÊNCIAS EM SÉRIES DE EXTREMOS HIDROLÓGICOS CONSIDERANDO EFEITOS DE AUTOCORRELAÇÃO TEMPORAL E MULTIPLICIDADE DE TESTES. Dissertação de Mestrado, PTARH/UnB.](fluxograma_Renato_Amorim.png)
 

@@ -44,9 +44,11 @@ Seguem alguns exemplos:
 
 ### Metodologia
 
+#### Estratégia de ação
+
 Da mesma forma que a Introdução precisa estar muito bem casada com os objetivos do trabalho, é muito importante que a Metodologia converse com os objetivos específicos da maneira mais clara possível. Para que isso aconteça, eu sugiro criar um item inicial na seção de Metodologia chamado **Estratégia de Ação**, ou algo similar, em que você irá descrever de uma forma geral como os métodos a serem apresentados se relacionam com os objetivos específicos do trabalho, utilizando, de preferência, algum tipo de diagrama ou fluxograma.
 
-Para facilitar o entendimento de como isso pode ser feito, eu coloco abaixo dois exemplos de diagramas. O primeiro foi retirado de uma dissertação de mestrado onde isso é feito. Eu retirei estes exemplos 
+Para facilitar o entendimento de como isso pode ser feito, eu coloco abaixo dois exemplos de diagramas. Nesses dois exemplos, os retângulos representam atividades, e cada um dos objetivos específicos estão claramente relacinados com essas atividdes. Por exemplo, em Osorio (2017), pode-se observar que para alcançar o objetivo específico 1 é necessário realizar as atividades 1-5.      
 
 <figure>
     <img src="fluxograma_ana_luisa.png"
@@ -62,9 +64,20 @@ Para facilitar o entendimento de como isso pode ser feito, eu coloco abaixo dois
 </figure>
 
 
-Essa primeira seção da Metodologia tem o objetivo de dar ao leitor uma ideia geral de como os métodos descritos na sequência se relacionam entre si, ou como cada etapa necessária para atingir os objetivos estão interigadas. 
+O uso de um fluxograma como esses dois acima apresentados em conjunto com um texto geral que explica o que precisa ser feito para lacançar cada objetivo específico costuma ser muito útil para o entendimento da lógica do trabalho. Veja que nessa primeira seção da Metodologia, nenhum detalhamento metodológico é realmente discutido. A lógica do item **Estratégia de Ação** é o de fornecer essa visão geral ao leitor.
 
-Na sequência, você deverá apresentar todos os métodos empregados no trabalho. É preciso ter em mente que a seção de Metodologia tem o objetivo de mostrar como você executou o seu estudo. O nível de detalhamento a ser dado aqui deve ser aquele que permitirá a quem quer que seja rproduzir os seus resultados. É preciso pensar nisso quando for descrever os métodos mepregados, sejam eles métodos antigos, já utilizados por outros, sejam eles métodos novos desenvolvidos por você mesmo. Quando se tratar de métodos mais antigos, que já tenham sido publicados em utro local, pode-se descrever de uma maneira mais geral e deixar os detalhes para serem encontrados nessas publicações. O nível de detalhamento adequado é sempre um pouco subjetivo, de forma que existe a possiblidade que alguém da banca de avaliação de seu trabalho não concorde com sua opinião do que é ou não é adequado.
+Os itens seguintes da Metodologia devem discutir cada uma das etapas apreentadas no fluxograma. Aí sim é o momento de detalhar os métodos empregados. Nesta etapa, é preciso ter em mente que a seção de Metodologia tem o objetivo de mostrar como você executou o seu estudo. O nível de detalhamento a ser dado aqui deve ser aquele que permitirá, a quem quer que seja, reproduzir os seus resultados. 
+
+#### Detalhamneto metodológico
+
+É preciso pensar nisso quando for descrever os métodos empregados. Métodos antigos, às vezes já consagrados e utilizados por outros, já possuem publicações anteriores, que devem ser citadas aqui. Nesses casos, costuma-se descrever o métdo de uma forma mais geral sem dar os detalhes, que odem sempre ser obtidos em outras fontes. ENtretanto, vale dizer que o nível de detalhamento adequado é sempre um pouco subjetivo, de forma que existe a possiblidade que alguém da banca de avaliação de seu trabalho venha a discordar de sua opinião sobre o que é adequado de entrar no trabalho. Se o método empregado foi desenvolvido por você, o mesmo deve ser detalhado o suficiente para sua correta reprodução por terceiros.
+
+É comum haver dúvidas de como escrever a Metodologia quando um método empregado já tenha sido discutido no **Referencial Teórico** ou na **Revisão Bibliográfica**. Nesse caso, eu sugiro apenas citar, pro exemplo, que a etapa A do trabalho empregou o método C, que já foi apresentado anteriormente. Seria um desperdício reescrever o método no memso documento. Entretanto, creio não existir consenso nesses casos.Se esse for o seu caso, sugiro conversar com o seu orientador a respeito para acharem uma solução conveniente. 
+
+#### Dados empregados
+
+Eu sugiro que o primiero item da Metodologia, depois do item **Estratégia de Ação**, seja reservado para tratar dos dados utilizados no estudo e dos possíveis tratamento dado aos mesmos. Digamos, por exemplo, que você tenha utilizado dados diários de vazão em várias estações fluviométrica localizados numa dada bacia hidrográfica. Nesse caso, é preciso explicar como e ond esses dados foram obtidos, listar os critérios adotados no processo de seleção dessas estações, mostrar a localização das mesmas num mapa, apresentar o período de dados usados, bem como discutir qalquer tipo de transformação que tenha sido empregada nos mesmos. 
+
 
 ### Resultados perliminares (se houver)
 

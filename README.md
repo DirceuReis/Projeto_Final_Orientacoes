@@ -12,14 +12,19 @@ Essas orientações estão dividades em duas partes, uma exclusiva para o docume
 
 ### Introdução
 
-A Introdução deve conter os elementos necessários para que o leitor entenda claramente o problema em que você decidiu trabalhar. 
+A Introdução de um documento de Projeto Final deve conter os seguintes elementos:
 
-- Apresentação do problema e tentativa de convencer o leitor de que o tópico é importante
-- Descrição, ainda em caráter mais geral, do que vem sendo feito na literatura científica para abordar o problema em pauta. É importante aqui preparar o terreno na cabeça do leitor, identificando alguma lacuna metodológica, ou de aplicação, de modo que os objetivos propostos por você para este trabalho sejam percebidos como algo necessário para tratar o problema (não necessariamente resolvê-lo) e que atingir os os objetivos propostos seja visto como um passo coerente no avanço científico ou tecnológico para o tratamento adequado a ser dado ao problema.
-- Explicar o que você pretende fazer neste trabalho, deixando, da forma mais clara possível, qual é a sua contribuição para a área de pesquisa. Para isso, é muito importante que tenha ficado claro, e também de forma bastante explícita, quais são as lacunas, identificadas na segunda parte da Introdução, que você pretender atacar.
-- Se você irá focar em alguma região específica, é adequado apresentar os motivos e os critérios utilizados para tal escolha.
+- Apresentação do problema e tentativa de convencer o leitor de que o tópico é importante. O balanço adequado entre apresentar os aspectos gerais do tema e prover um certo grau de detalhamento não é fácil de ser atingido. Geralmente, a Introdução é a última seção do documento a ser finalizada. 
 
-É bom lembrar que a Introdução precisa estar muito bem casada com os Objetivos. 
+- Descrição, ainda em caráter mais geral, do que vem sendo feito na literatura científica para abordar o problema em pauta. É importante aqui preparar o terreno na cabeça do leitor, identificando alguma lacuna metodológica, ou de aplicação, de modo que os objetivos propostos por você para este trabalho, a serem descritos na próxima seção do documento, sejam percebidos como algo necessário para tratar o problema (não necessariamente resolvê-lo) e que atingir os os objetivos propostos seja visto como um passo coerente no avanço científico ou tecnológico para o tratamento adequado a ser dado ao problema.
+
+- Depois de convencer o leitor de que o tema é importante, e de que há realmente lacunas a srem preenchidas, você precisa explicar o que pretende fazer neste trabalho, deixando, da forma mais clara possível, qual é a sua contribuição para a área de pesquisa. Para isso, é muito importante que tenha ficado claro, e também de forma bastante explícita, quais são as lacunas, identificadas na segunda parte da Introdução, que você pretender atacar.
+
+- Caso você prentenda abordar um problema em alguma região específica, é adequado apresentar os motivos e os critérios utilizados para tal escolha.
+
+Embora não haja um número ótimo de páginas para a seção de Introdução, me arrisco a dizer que uma Introdução com menos de 3 páginas terá dificuldades em transmitir a relevânica do tema, caracterizar os desafos e lacunas do assunto, assim como descrever o que se deseja fazer, a não ser que seja muito, mas muito bem escrita mesmo. Por outro lado, uma Inrodução com mais de 5 páginas  me leva a crer que o aluno não gastou o tempo necessário no processo de lapidação do texto, uma atividade um pouco penosa em que o escritor precisa se esforçar para deixar no papel apenas o que é essencial. 
+
+Finalizo dizendo que a Introdução precisa estar muito bem casada com os Objetivos do seu trabalho, tema da próxima seção do documento. Definidos os Objetivos, vale sempre a pena voltar à Introdução para fazer as alterações necessárias.
 
 ### Objetivos geral e específicos
 

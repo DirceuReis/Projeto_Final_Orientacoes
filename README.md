@@ -62,7 +62,7 @@ O exemplo abaixo foi extraído do Projeto Final 2 de Mathieu Dias Girard, aluno 
 >
 > 2.1 – OBJETIVO GERAL
 >
-> O presente trabalho objetiva estimar possíveis alterações na 𝑄~9~~5~ decorrentes das mudanças
+> O presente trabalho objetiva estimar possíveis alterações na 𝑄~~9~~ decorrentes das mudanças
 > climáticas na bacia hidrográfica do rio São Francisco. Para tal, foi desenvolvido um modelo
 > estatístico de regressão que incorpora um modelo baseado nas hipóteses de Budyko.
 >

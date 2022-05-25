@@ -13,6 +13,10 @@ output:
 >
 > <p style='text-align: right;'> por Dick Guindon </p>
 
+Este documento de orientações inicia com essa citação do cartunista americano Dick Guidon para chamar a atenção para a importância da escrita num trabalho intelectual que exige reflexões constantes. A melhor forma de colocar seus pensamentos em ordem e avaliar se são dignos de serem levados a sério é colocando suas ideias no papel, mesmo que não haja papel algum. Pensar sem escrever é uma atividade perigosa para você mesmo. Apenas quando escrevemos nos damos conta dos problemas e limitações de nossos pensamentos.  Portanto, procure iniciar a escrita de seu documento do Projeto Final o quanto antes para evitar que você se autoengane por muito tempo. 
+
+Disto isso, vamos ao que interessa.
+
 Este documento apresenta e discute diversos elementos que fazem parte dos documentos de Projeto Final 1 e Projeto Final 2 de alunos da Univesidade de Brasília sob orientação do Professor Dirceu Silveira Reis Junior.
 
 Essas orientações estão dividades em duas partes, uma exclusiva para o documento do Projeto Final 1, e outra que apresenta um detalhamento maior sobre os elementos necessários para o Projeto Final 2.

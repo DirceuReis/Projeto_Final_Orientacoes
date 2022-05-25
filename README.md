@@ -55,14 +55,14 @@ A segunda parte é composta pelos Objetivos Específicos, que são normalmente a
 
 Cada Objetivo Específico, para ser alcançado, necessitará da realização de uma ou mais atividades. QUando pensar nesses objetivos, tente já pensar o que precisa ser feito para alcançá-los. Essa relação entre Objetivos Específicos e atividades será discutida mais profundamente quando falarmos da Metodologia.
 
-O exemplo abaixo foi extraído do Projeto Final 2 de Mathieu Dias Girard, aluno do curso de Engenharia Ambiental da Universidade de Brasília, Q~95~
+O exemplo abaixo foi extraído do Projeto Final 2 de Mathieu Dias Girard, aluno do curso de Engenharia Ambiental da Universidade de Brasília. Acho que esse exemplo dá uma boa ideia do que geralmente se espera desta seção de Objetivos. A última frase do Objetivo Geral poderia ter sido modificada para deixar mais claro que objetivo incluía o uso das hipóteses de Budyko. Do jeito que ficou, parece que está misturando objetivo geral com metodologia.  
 
 
 > 2 – OBJETIVOS
 >
 > 2.1 – OBJETIVO GERAL
 >
-> O presente t~rabalho~ o^bjetiva^ estimar possíveis alterações na 𝑄~~9~~ decorrentes das mudanças
+> O presente trabalho objetiva estimar possíveis alterações na 𝑄95 decorrentes das mudanças
 > climáticas na bacia hidrográfica do rio São Francisco. Para tal, foi desenvolvido um modelo
 > estatístico de regressão que incorpora um modelo baseado nas hipóteses de Budyko.
 >
@@ -70,8 +70,8 @@ O exemplo abaixo foi extraído do Projeto Final 2 de Mathieu Dias Girard, aluno 
 >
 > - Selecionar estações fluviométricas que não sofrem influência de reservatórios e cujo regime de vazões têm comportamento estatístico estacionário.
 > - Analisar a sensibilidade da vazão média de longo período em relação às mudanças climáticas utilizando conceitos de elasticidade-clima aplicados à um modelo do tipo Budyko.
-> - Construir um modelo estatístico que permita estimar a Q~95~ em função de covariáveis climáticas e da vazão média de longo período.
-> - Determinar a mudança na 𝑄~95~ devido às mudanças climáticas com base no modelo estatístico, nos coeficientes de elasticidade-clima e nas mudanças relativas em variáveis climáticas apontadas em modelos climáticos globais apresentados pelo IPCC.
+> - Construir um modelo estatístico que permita estimar a Q95 em função de covariáveis climáticas e da vazão média de longo período.
+> - Determinar a mudança na 𝑄95 devido às mudanças climáticas com base no modelo estatístico, nos coeficientes de elasticidade-clima e nas mudanças relativas em variáveis climáticas apontadas em modelos climáticos globais apresentados pelo IPCC.
 
 ### Referencial teórico
 

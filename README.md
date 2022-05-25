@@ -3,7 +3,7 @@ title: "Orientações para realização de Projeto Final"
 output:
   html_document:
      toc: true
-     toc_depth: 2
+     toc_depth: 3
   #pdf_document: default
   
 ---
@@ -163,22 +163,32 @@ O cronograma deve conter todas as atividades apresentadas no item **Estratégia 
 
 ## Preliminares
 
-## Resumo
+## Estrutura do documento
 
-## Abstract
+### Resumo
 
-## Introdução
+### Abstract
 
-## Referencail teórico
+### Introdução
 
-## Revisão bibliográfica
+### Referencial teórico
 
-## Metodologia
+### Revisão bibliográfica
 
-## Análise dos resultados
+### Metodologia
 
-## Conclusões
+### Análise dos resultados
 
-## Referências
+### Conclusões
+
+### Referências
 
 ## Cuidados a serem tomados
+
+# Cuidados com a reproducibilidade
+
+## O conceito de reproducibilidde
+
+## Versionamento de dados e scripts
+
+## Word ou RMarkdown?

@@ -5,7 +5,7 @@ output:
 ---
 # Orientações para realização de Projeto Final
 
-Em construção!
+**Em construção!**
 
 Este documento apresenta e discute diversos elementos que fazem parte dos documentos de Projeto Final 1 e Projeto Final 2 de alunos da Univesidade de Brasília sob orientação do Professor Dirceu Silveira Reis Junior.
 

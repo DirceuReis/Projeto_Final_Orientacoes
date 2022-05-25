@@ -55,7 +55,7 @@ A segunda parte é composta pelos Objetivos Específicos, que são normalmente a
 
 Cada Objetivo Específico, para ser alcançado, necessitará da realização de uma ou mais atividades. QUando pensar nesses objetivos, tente já pensar o que precisa ser feito para alcançá-los. Essa relação entre Objetivos Específicos e atividades será discutida mais profundamente quando falarmos da Metodologia.
 
-O exemplo abaixo foi extraído do Projeto Final 2 de Mathieu Dias Girard, aluno do curso de Engenharia Ambiental da Universidade de Brasília,
+O exemplo abaixo foi extraído do Projeto Final 2 de Mathieu Dias Girard, aluno do curso de Engenharia Ambiental da Universidade de Brasília, Q~95~
 
 
 > 2 – OBJETIVOS

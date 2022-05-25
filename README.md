@@ -35,13 +35,11 @@ Finalizo dizendo que a Introdução precisa estar muito bem casada com os Objeti
 
 ### Objetivos geral e específicos
 
-Eu inicio esta seção da mesma forma que finalizei a seção anterior, ou seja, enfatizando a necessidade de que a seção de Introdução deve estar intimamente relacioanada com a seção de Objetivos do trabalho. Ao iniciar a leitura dos Objetivos, o leitor não deve sentir nem uma gota de surpresa, muito pelo cntrário, ele deve ler os objetivos como se os mesmos já estivessem em sua cabeça. Qualquer sinal de surpresa é um indício de que a Introdução pode e deve ser refinada.
+Eu inicio esta seção da mesma forma que finalizei a seção anterior, ou seja, enfatizando a necessidade de que a seção de Introdução deve estar intimamente relacioanada com a seção de Objetivos do trabalho. Ao iniciar a leitura dos Objetivos, o leitor não deve sentir nem uma gota de surpresa, muito pelo contrário, ele deve ler os objetivos como se os mesmos já estivessem em sua cabeça. Qualquer sinal de surpresa é um indício de que a Introdução pode e deve ser refinada.
 
-Na UnB, mais especificamente no Departamento de Engenharia Cicil e Ambiental, é comum apresentar os objetivos em duas partes, um com o chamado Objetivo geral, e uma segunda parte com uma iteização de Objetivos Específicos. Essa maneira de paresentar, embora não seja obrigatório, é bastante comum.
+Na UnB, mais especificamente no Departamento de Engenharia Civil e Ambiental, é comum apresentar os objetivos em duas partes. Na primeira parte, apresenta-se o Objetivo Geral, geralmente descrito em apenas um parágrafo, dando uma ideia geral do que se pretende alcançar com o Projeto Final. 
 
-O Objetivo geral é geralmente descrito em apenas um parágrafo.Ele dá uma ideia geral do que se pretende alcançar com o Projeto Final. 
-
-Os Objetivos Específicos são normalmente apresentados em forma de itens. Não existe uma maneira única de pensar sobre como apresentar os Objetivos Específicos. Eu gosto de pensar nos Objetivos Específicos como subprodutos do Projeto Final, entidades palpáveis, que tenham vida própria, ou em outras palavras, que possam ser vistos como uma unidade com início, meio e fim. 
+A segunda parte é composta pelos Objetivos Específicos, que são normalmente apresentados em forma de itens curtos. Não existe uma maneira única de pensar sobre como apresentar os Objetivos Específicos. Eu gosto de pensar nos Objetivos Específicos como subprodutos do Projeto Final, entidades palpáveis, que tenham vida própria, ou em outras palavras, que possam ser vistos como uma unidade com início, meio e fim. 
 
 Seguem alguns exemplos:
 

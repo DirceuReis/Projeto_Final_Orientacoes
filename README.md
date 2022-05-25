@@ -46,8 +46,17 @@ Cada Objetivo Específico, para ser alcançado, necessitará da realização de 
 Seguem alguns exemplos:
 
 
+### Referencial teórico
 
-### Revisão bibliográfica e ou referencial teórico
+### Revisão bibliográfica
+
+DUrante o Projeto Final 1, você passará um tempo considerável lendo material sobre o tema de seu trabalho. O orientador possui um papel primordial nesta etapa, discutindo com o aluno o que é fundamental entender e apresentando os documentos para a leitura, que geralmente consiste de artigos científicos, teses e dissertações, e até mesmo outros documentos de Projeto Final.
+
+
+
+Esta seção tem o objetivo de descrever o conhecimento atual sobre o tema em questão. Mas é preciso ter o cuidado para não perder o foco no seu problema específico. Alguns alunos exageram e começam a explicar tudo sobre o assunto. Por exemplo, não é raro encontrar em documentos de Projeto Final na área de modelagem hidrológica expicações sobre o balanço hídricos, que é um conhecimento básico e bastante geral. 
+
+
 
 ### Metodologia
 

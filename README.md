@@ -13,6 +13,18 @@ Essas orientações estão dividades em duas partes, uma exclusiva para o docume
 
 ## Preliminares
 
+Pontos (dicas) de como proceder:
+
+- Comece a escrever o quanto antes. Não para escrever o documento no final
+- Escrever é reescrever, o que sugere que você deve começar o quanto antes para que tenha tempo de apriomorar o texto e as ideias na sua cabeça.
+- Monte  itemização do documento utiliando a estrutura apresentada abaixo. A partir daí, comece a preecehr os espaços vazios.
+- Procure entender o problema que você e o seu orientador decidiram abraçar.
+- Converse com o seu orientador sobre o trabalho semanalmente, se possível. É importante manter sua mente pensando no tema escolhido
+- Leia com afinco o material repassado pelo seu orientador e procure discutir com ele os pontos que não ficaram claros.
+- À medida que lê o material, procure escrever sobre o assunto sem voltar ao texto, como se tivesse tentando explicar o tema para um amigo seu. Esse exercício é essencial no processo de aprendizado.
+- Se você é meu aluno, seu Projeto Final deve ter uma base quantitativa forte. Procure se familiarizar com as análise quantitativas do tema. Comece a escrever seus scripts já no Projeto Final 1. Isso ajudará no entendimento do tema.
+
+
 ## Estrutura do documento
 
 ### Introdução
@@ -54,7 +66,9 @@ Durante o Projeto Final 1, você passará um tempo considerável lendo material 
 
 
 
-Esta seção tem o objetivo de descrever o conhecimento atual sobre o tema em questão. Mas é preciso ter o cuidado para não perder o foco no seu problema específico. Alguns alunos exageram e começam a explicar tudo sobre o assunto. Por exemplo, não é raro encontrar em documentos de Projeto Final na área de modelagem hidrológica expicações sobre o balanço hídricos, que é um conhecimento básico e bastante geral. 
+A seção de revisão bibliográfica tem o objetivo de descrever o estágio atual do conhecimento no tema do seu trabalho. Não é muito fácil falar sobre isso de uma forma geral, sem um caso específico, mas tentarei deixar claro o que se espera desta seção num documento de Projeto Final.
+
+A descrição do estado atual do conhecimento deve cobrir Essa descrição Mas é preciso ter o cuidado para não perder o foco no seu problema específico. Alguns alunos exageram e começam a explicar tudo sobre o assunto. Por exemplo, não é raro encontrar em documentos de Projeto Final na área de modelagem hidrológica expicações sobre o balanço hídricos, que é um conhecimento básico e bastante geral. 
 
 
 

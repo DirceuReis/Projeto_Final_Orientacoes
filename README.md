@@ -1,7 +1,11 @@
 ---
+title: "Orientações para realização de Projeto Final"
 output:
-  html_document: default
-  pdf_document: default
+  html_document:
+     toc: true
+     toc_depth: 2
+  #pdf_document: default
+  
 ---
 # Orientações para realização de Projeto Final
 
@@ -155,12 +159,26 @@ O cronograma deve conter todas as atividades apresentadas no item **Estratégia 
 
 ## Cuidados a serem tomados
 
-# Projeto FInal 2
+# Projeto Final 2
 
 ## Preliminares
+
+## Resumo
+
+## Abstract
+
+## Introdução
+
+## Referencail teórico
+
+## Revisão bibliográfica
+
+## Metodologia
 
 ## Análise dos resultados
 
 ## Conclusões
+
+## Referências
 
 ## Cuidados a serem tomados

@@ -7,9 +7,18 @@ output:
 
 **Em construção!**
 
+> Writing is nature's way of letting you know how sloppy your thiking is.
+>
+> Escrever é a maneira que a natureza tem para te mostrar o quão desordenado o seu pensamento é.
+>
+> <p style='text-align: right;'> por Dick Guindon </p>
+
 Este documento apresenta e discute diversos elementos que fazem parte dos documentos de Projeto Final 1 e Projeto Final 2 de alunos da Univesidade de Brasília sob orientação do Professor Dirceu Silveira Reis Junior.
 
 Essas orientações estão dividades em duas partes, uma exclusiva para o documento do Projeto Final 1, e outra que apresenta um detalhamento maior sobre os elementos necessários para o Projeto Final 2.
+
+
+
 
 # Projeto Final 1
 

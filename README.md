@@ -15,9 +15,9 @@ Essas orientações estão dividades em duas partes, uma exclusiva para o docume
 
 Pontos (dicas) de como proceder:
 
-- Comece a escrever o quanto antes. Não para escrever o documento no final
-- Escrever é reescrever, o que sugere que você deve começar o quanto antes para que tenha tempo de apriomorar o texto e as ideias na sua cabeça.
-- Monte  itemização do documento utiliando a estrutura apresentada abaixo. A partir daí, comece a preecehr os espaços vazios.
+- Comece a escrever o quanto antes. Não deixe para escrever o documento no final.
+- Escrever é reescrever, o que sugere que você deve começar o quanto antes para que tenha tempo de apriomorar o texto e organizar as ideias na sua cabeça.
+- Monte  uma itemização do documento utiliando a estrutura apresentada abaixo. A partir daí, comece a preecher os espaços vazios.Escrevo isso em tom de brincadeira, mas estou falando sério. Não tenha medo de escrever, mesmo que as primeiras versões sejam horrorosas. Todo bom texto que você já leu é resultado de aprimoramentos constantes de um texto inicial ruim. Confie em mim.
 - Procure entender o problema que você e o seu orientador decidiram abraçar.
 - Converse com o seu orientador sobre o trabalho semanalmente, se possível. É importante manter sua mente pensando no tema escolhido
 - Leia com afinco o material repassado pelo seu orientador e procure discutir com ele os pontos que não ficaram claros.

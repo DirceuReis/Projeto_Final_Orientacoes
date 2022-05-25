@@ -50,7 +50,7 @@ Seguem alguns exemplos:
 
 ### Revisão bibliográfica
 
-DUrante o Projeto Final 1, você passará um tempo considerável lendo material sobre o tema de seu trabalho. O orientador possui um papel primordial nesta etapa, discutindo com o aluno o que é fundamental entender e apresentando os documentos para a leitura, que geralmente consiste de artigos científicos, teses e dissertações, e até mesmo outros documentos de Projeto Final.
+Durante o Projeto Final 1, você passará um tempo considerável lendo material sobre o tema de seu trabalho. O orientador possui um papel primordial nesta etapa, discutindo com o aluno o que é fundamental entender e apresentando os documentos para a leitura, que geralmente consiste de artigos científicos, teses e dissertações, e até mesmo outros documentos de Projeto Final.
 
 
 

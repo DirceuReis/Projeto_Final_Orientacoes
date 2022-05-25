@@ -9,7 +9,7 @@ output:
 
 > Writing is nature's way of letting you know how sloppy your thiking is.
 >
-> Escrever é a maneira que a natureza tem para te mostrar o quão desordenado o seu pensamento é.
+> Escrever é a maneira que a natureza tem para te mostrar o quão desordenado é seu pensamento.
 >
 > <p style='text-align: right;'> por Dick Guindon </p>
 

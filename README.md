@@ -41,6 +41,8 @@ Na UnB, mais especificamente no Departamento de Engenharia Civil e Ambiental, é
 
 A segunda parte é composta pelos Objetivos Específicos, que são normalmente apresentados em forma de itens curtos. Não existe uma maneira única de pensar sobre como apresentar os Objetivos Específicos. Eu gosto de pensar nos Objetivos Específicos como subprodutos do Projeto Final, entidades palpáveis, que tenham vida própria, ou em outras palavras, que possam ser vistos como uma unidade com início, meio e fim. 
 
+Cada Objetivo Específico, para ser alcançado, necessitará da realização de uma ou mais atividades. QUando pensar nesses objetivos, tente já pensar o que precisa ser feito para alcançá-los. Essa relação entre Objetivos Específicos e atividades será discutida mais profundamente quando falarmos da Metodologia.
+
 Seguem alguns exemplos:
 
 

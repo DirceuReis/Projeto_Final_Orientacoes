@@ -189,16 +189,17 @@ O cronograma deve conter todas as atividades apresentadas no item **Estratégia 
 
 ## O conceito de reproducibilidde
 
-Nos últimos anos, temos observado um movimento no meio científico para encontrar maneiras de garantir a reproducibilidade dos estudos, ou seja, garantir que ouros proffissoiinais possam facilmente, utilizando os métodos métoos do estudo original, encontrar exatamente os mesmos resultados. Isso é muito importante, pois permite que outros cientistas ou profissionais da área para avaliar se os resultados obtidos são confiáveis.
+Nos últimos anos, temos observado um movimento no meio científico para garantir a reproducibilidade dos estudos. O que é reproducibilidade e porque é algo desejável? Reproducibilidade é o nome que se dá ao fato de um estudo apresentar todos os detalhes metodológicos e os dados empregados para que outras pessoas possam reproduzir os resultados atingidos. Isso é muito importante, pois permite que terceiros possam não só reproduzir, de forma independente, o que foi obtido, como também avaliar cada passo que foi realmente realizado. Muitas vezes, infelizmente, o que os autores apresentam na Metodologia nem sempre é o que realmente foi feito no estudo.
 
-O que se tem feito para garantir a reproducibilidade é obrigar que os autores dos estudos apresentem de forma organizada os dados que foram empregados no estudo, detalhando todas as análises realizadas, bem como os códigos computacionais que foram empregados. Esses dis elementos são muito importantes, pois permitem que terceiros possam não só reproduzir o que foi obtido de forma independente, como também avaliar cada passo que foi realmente realizado. Muitas vezes, infelizmente, o que os autores apresentam na Metodologia nem sempre é o que realmente foi feito no estudo. 
+QUal é a relação disso com um Projeto Final? Garantir a reproducibilidade num Projeto Final é uma forma de: (a) reduzir as chances do aluno publicar resultados errados no Projeto Final, dado que fica mais fácil para o orientador, ou colegas do mesmo grupo de pesquisa,  verificarem o que foi ou está sendo feito, (b) facilitar a vida do aluno e do orientador em relação às versões dos códigos empregados nas análises, dos dados utilizados, e até mesmo dos documentos gerados, e (b) facilitar o trabalho de futuros alunos que trabalharão no mesmo tema. 
 
-NO nosso caso, garantir a reproducibilidade é uma forma de: (a) reduzir as chances do aluno publicar resultados errados no Projeto Final, (b) facilitar a vida do aluno e orientador em relação às versões dos dados e dos códigos utilizados na análise, e (b) facilitar o trabalho de futuros alunos que trabalharão no mesmo tema. 
-
-Como garantir a reproducibilidade no Prjeto Final é o assunto da próxima seção.
+Como garantir a reproducibilidade no Projeto Final e usfruir de seus benfícios é o assunto da próxima seção.
 
 ## Versionamento de dados e scripts
 
-Com base no que foi dito na seção anterior, sugiro a utiização de ferramentas
+Com base no que foi dito na seção anterior, sugiro a utilização de ferramentas
+
+- R e RStudio
+- Git e GitHub
 
 ## Word ou RMarkdown?

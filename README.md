@@ -70,7 +70,7 @@ Eu inicio esta seção da mesma forma que finalizei a seção anterior, ou seja,
 
 Na primeira parte, apresenta-se o Objetivo Geral, geralmente descrito em apenas um parágrafo, dando uma ideia geral do que se pretende alcançar com o Projeto Final. 
 
-A segunda parte é composta pelos Objetivos Específicos, que são normalmente apresentados em forma de itens curtos. Não existe ao mey ver uma visão única sobre os Objetivos Específicos de um trabalho.Eu gosto de pensar nos Objetivos Específicos como subprodutos do Projeto Final, entidades palpáveis, que tenham vida própria, ou em outras palavras, que possam ser vistos como uma unidade com início, meio e fim. Outros vêem os objetivos específicos como atividades necessárias para alcançar o Objetivo Geral. As duas visões não são totalmente excludentes, mas são diferentes. 
+A segunda parte é composta pelos Objetivos Específicos, que são normalmente apresentados em forma de itens curtos. Não existe ao meu ver uma visão única sobre os Objetivos Específicos de um trabalho.Eu gosto de pensar nos Objetivos Específicos como subprodutos do Projeto Final, entidades palpáveis, que tenham vida própria, ou em outras palavras, que possam ser vistos como uma unidade com início, meio e fim. Outros vêem os objetivos específicos como atividades necessárias para alcançar o Objetivo Geral. As duas visões não são totalmente excludentes, mas são diferentes. 
 
 Cada Objetivo Específico, para ser alcançado, necessitará da realização de uma ou mais atividades. Quando pensar nesses objetivos, tente já pensar no que precisa ser feito para alcançá-los. Essa relação entre Objetivos Específicos e atividades será discutida mais profundamente quando falarmos da Metodologia.
 

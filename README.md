@@ -11,7 +11,7 @@ output:
 
 **Em construção!**
 
-> Writing is nature's way of letting you know how sloppy your thiking is.
+> Writing is nature's way of letting you know how sloppy your thinking is.
 >
 > Escrever é a maneira que a natureza tem para te mostrar o quão desordenado é seu pensamento.
 >

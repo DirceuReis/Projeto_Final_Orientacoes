@@ -18,7 +18,7 @@ output:
 > <p style='text-align: right;'> por Dick Guindon </p>
 
 Alterado por Conceiçao.
-
+De novo
 Este documento de orientações inicia com essa citação do cartunista americano Dick Guidon para chamar a atenção para a importância da escrita num trabalho intelectual que exige reflexões constantes. A melhor forma de colocar seus pensamentos em ordem e avaliar se são dignos de serem levados a sério é colocando suas ideias no papel, mesmo que não haja papel algum. Pensar sem escrever é uma atividade perigosa para você mesmo. Apenas quando escrevemos nos damos conta dos problemas e limitações de nossos pensamentos.  Portanto, procure iniciar a escrita de seu documento do Projeto Final o quanto antes para evitar que você se autoengane por muito tempo. 
 
 Disto isso, vamos ao que interessa.
